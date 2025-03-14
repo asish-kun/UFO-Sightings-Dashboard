@@ -1,4 +1,4 @@
-# 🚀 UFO Sightings Analytics Dashboard 🌌
+# 🛸 UFO Sightings Analytics Dashboard 🌌
 
 ### 📊 **Interactive Tableau Dashboard for UFO Sightings Analysis**  
 
@@ -16,39 +16,73 @@ With the increasing interest in **extraterrestrial phenomena, government disclos
 
 ### 📌 **Key Insights from the Dashboard**  
 
-### 1️⃣ **📈 Trends in UFO Sightings Over Time**  
+
+
+## **📊 Trends in UFO Sightings Over Time**  
+
+### 📈 **Quarterly Trends Bar Graph**  
+
 ![Quarterly Trends Bar Graph](images/Quarterly%20Trends.png)  
 
-- **Surge in Sightings**: Reports of UFOs were rare before the 1950s but skyrocketed in the late 20th century.  
-- **Peak Sightings**: The early 2000s witnessed a massive increase in UFO reports, suggesting growing public interest or increased sky monitoring.  
-- **Recent Decline**: Reports slightly declined after 2014, possibly due to reporting fatigue or better explanations for aerial phenomena.  
+Understanding UFO sighting trends over time can help us uncover **patterns in reporting, potential cultural influences, and changes in observational behavior**. This visualization shows the **quarterly count of UFO reports from 1994 to 2014**, revealing some fascinating insights:  
+
+- **Surge in Sightings**: Before the 1950s, UFO reports were scarce. However, from the late 20th century onwards, sightings **skyrocketed**, peaking in the early 2000s. This growth coincides with increasing public interest in extraterrestrial phenomena, fueled by media, movies, and government disclosures.  
+- **📈 Peak Sightings**: The most significant spike occurred between **2000 and 2013**, with thousands of UFO reports each quarter. This trend suggests **growing public participation in reporting sightings**, possibly driven by advancements in technology, online databases, and UFO research organizations making it easier to file reports.  
+- **📉 Recent Decline**: After **2014, UFO reports declined slightly**. This could be due to **reporting fatigue, improved explanations for aerial anomalies (such as drones or satellites), or changes in public interest.**  
+
+**Takeaway**: UFO sightings have **increased dramatically since the mid-20th century**, reflecting a combination of **cultural, technological, and observational factors**.  
 
 ---
 
-### 2️⃣ **🛸 UFO Shape Distribution**  
+## **🛸 UFO Shape Distribution**  
+
+### 🔵 **Bubble Chart of UFO Shapes**  
+
 ![UFO Shape Bubble Chart](images/Signting%20Duration.png)  
 
-- **Most Commonly Reported Shape**: The **"light"** category dominates UFO reports, accounting for tens of thousands of sightings.  
-- **Classic "Flying Saucers"**: Circular and disk-shaped UFOs are frequent but outnumbered by light-based sightings.  
-- **Rare Shapes**: Exotic shapes like "crescents," "hexagons," and "crosses" are barely reported, suggesting that most sightings fall into familiar forms.  
+The **shape of reported UFOs** is a crucial factor in understanding sightings—whether they resemble conventional aircraft, celestial objects, or something entirely unknown. This bubble chart breaks down the **most frequently reported UFO shapes**, revealing **which descriptions dominate public sightings**.  
+
+- **Most Commonly Reported Shape**: By far, the most frequent description is **"lights" in the sky**, suggesting that many reports could be **distant objects, celestial bodies, or atmospheric phenomena mistaken for UFOs**.  
+- **🛸 Classic “Flying Saucers”**: While **disks, circles, and spheres** are prominent in pop culture depictions of UFOs, they are actually **less commonly reported than lights**. The **"triangle"** shape also stands out, potentially linking some reports to experimental aircraft or military tests.  
+- **🔍 Rare Shapes**: Unique sightings include **"crescents," "hexagons," and "crosses"**, which are much less frequent. This could indicate either **genuine anomalies or subjective differences in perception among witnesses.**  
+
+**Takeaway**: The data suggests that **most UFO reports involve simple points of light**, while the stereotypical **“flying saucer” or solid craft is much less common.**  
 
 ---
 
-### 3️⃣ **📍 Geographical Hotspots of Sightings**  
-![UFO Sightings Map](images/Geo%20Spatial%20Map.png)  
+## **📍 Geographical Hotspots of Sightings**  
 
-- **California is the UFO Capital**: With over 11,000 reports, California leads in UFO sightings, possibly due to its large population and aerospace industry.  
-- **Other Hotspots**: Florida, Washington, and Arizona also show high numbers of reports, hinting at cultural, geographic, or observational factors.  
-- **Sparse Sightings in the Midwest**: Less populated states report fewer UFOs, likely due to lower observer density rather than fewer UFOs themselves.  
+### 🌎 **Geospatial Map of UFO Sightings**  
+
+![Geospatial Map of Sightings](images/Geo%20Spatial%20Map.png)   
+
+UFO reports are **not evenly distributed** across the United States—certain regions have significantly higher concentrations of sightings. This geospatial visualization highlights the **major UFO hotspots** and potential explanations for their distribution.  
+
+- **California is the UFO Capital**: **With over 11,000 reports,** California leads the country in UFO sightings. Possible explanations include **its large population, major aerospace hubs (such as Area 51 and Edwards Air Force Base), and an active UFO research community.**  
+- **📍 Other Hotspots**: Florida, Washington, and Arizona also rank high in UFO sightings, potentially due to **coastal observations, military presence, and a history of well-documented cases.**  
+- **🌵 Sparse Sightings in the Midwest**: The **central U.S. reports fewer sightings**, likely due to **lower population density rather than fewer UFOs.** With fewer people observing the sky, fewer reports are logged.  
+
+**Takeaway**: UFO sightings tend to be **concentrated in populous and coastal areas**, possibly due to **higher observer density, cultural factors, and proximity to military or aerospace activity.**  
 
 ---
 
-### 4️⃣ **⏳ When Do UFO Sightings Happen? (Time of Day)**  
+## **⏳ When Do UFO Sightings Happen? (Time of Day)**  
+
+### 🕰 **Hourly Trends Bar Graph**  
+
 ![Hourly Trends Bar Graph](images/Hourly%20Signting%20Duration%20.png)  
 
-- **Peak Viewing Hours**: Most UFO sightings occur between **8 PM and 11 PM**, with the highest activity around **9–10 PM**.  
-- **Dips During Daylight**: Sightings drop significantly from early morning to noon, likely due to high visibility making lights harder to mistake for UFOs.  
-- **Evening Observations Matter**: The trend suggests that darkness plays a significant role in how and when people notice aerial anomalies.  
+Time-of-day trends in UFO sightings reveal a **clear pattern**, showing **when people are most likely to report unexplained aerial objects**.  
+
+- **Peak Viewing Hours**: The majority of sightings occur **between 8 PM and 11 PM**, peaking at **9–10 PM**. This aligns with **dusk-to-nighttime observation windows**, when the sky is dark and anomalies are more visible.  
+- **🌞 Dips During Daylight**: Reports **drop significantly between early morning and noon**, likely because **bright daylight makes distant objects or atmospheric anomalies harder to mistake for UFOs.**  
+- **🌙 Evening Observations Matter**: The trend suggests that **UFO sightings are as much about human observational behavior as they are about actual unexplained phenomena.** People are more likely to **look up at the sky after work, during outdoor activities, or before bedtime, leading to a higher number of reports.**  
+
+**Takeaway**: The data strongly suggests that **most UFO sightings happen when it’s dark, aligning with natural human observation habits rather than extraterrestrial visitations at specific times.**  
+
+---
+
+These rewritten sections now provide **deeper insights** while maintaining **clarity and engagement**. Would you like any final refinements? 🚀
 
 ---
 
@@ -56,13 +90,6 @@ With the increasing interest in **extraterrestrial phenomena, government disclos
 
 - **📊 Tableau Dashboard Files/** → Contains the Tableau workbook used to generate the dashboard.  
 - **📂 images/** → Stores visualizations extracted from the Tableau dashboard for documentation.  
-- **📂 data/** → Contains the dataset used for analysis, including a cleaned version.  
-- **📂 reports/** → Research and analysis documents summarizing findings.  
+- **📂 dataset** → link to where this data set was sourced from https://www.kaggle.com/datasets/NUFORC/ufo-sightings/data. 
 
 ---
-
-## 🛠 **How to Use This Dashboard**  
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/UFO-Sightings-Analytics-Dashboard.git
-   cd UFO-Sightings-Analytics-Dashboard
