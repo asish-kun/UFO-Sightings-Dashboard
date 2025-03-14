@@ -1,10 +1,18 @@
 # 🚀 UFO Sightings Analytics Dashboard 🌌
 
-## 📊 Interactive Tableau Dashboard for UFO Sightings Analysis  
+### 📊 **Interactive Tableau Dashboard for UFO Sightings Analysis**  
 
-This repository showcases a **Tableau Dashboard** analyzing over **88,000 UFO sightings** reported across the United States over the past century. Using data from the **National UFO Reporting Center (NUFORC)**, this project visualizes patterns in **sighting trends, geographic hotspots, common UFO shapes, and time-based occurrences** to uncover fascinating insights into when, where, and how people report unidentified flying objects.  
+This project presents an **interactive UFO Sightings Dashboard**, developed using **Tableau**, to analyze over **88,000 UFO sightings** reported across the United States over the last century. The dataset, sourced from the **National UFO Reporting Center (NUFORC)**, provides a wealth of information on UFO encounters, including **when**, **where**, and **how** they occurred, along with descriptions of their shapes and durations.  
+
+With the increasing interest in **extraterrestrial phenomena, government disclosures, and scientific inquiries into UAPs (Unidentified Aerial Phenomena)**, this dashboard provides a **data-driven exploration of UFO reports**, helping to uncover **patterns, correlations, and anomalies** in sighting trends.  
 
 ![UFO Signtings Dashboard](images/DashBoard.png)  
+
+### 🔎 **What This Dashboard Reveals:**  
+🔹 **Trends Over Time:** UFO sightings surged in the late 20th century, reaching their peak in the early 2010s before slightly declining in recent years.  
+🔹 **Geographical Hotspots:** Certain states—**California, Florida, and Washington—report significantly more UFO sightings** than others, while sparsely populated areas report fewer cases.  
+🔹 **Commonly Reported Shapes:** The vast majority of sightings are of **"lights" or glowing orbs**, with **disks, circles, and triangles** making up a smaller but notable portion.  
+🔹 **Peak Sighting Times:** The most common time for sightings is **between 8 PM and 11 PM**, with a **sharp peak around 9–10 PM**, reinforcing the theory that low-light conditions play a key role in observations.
 
 ### 📌 **Key Insights from the Dashboard**  
 
